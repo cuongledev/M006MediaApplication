@@ -1,1 +1,1 @@
-# M006MediaApplication
+# M006MediaMVPApplication
